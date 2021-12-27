@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testsuite">
+    <!--    <listeners>-->
+    <!--        <listener class-name="com.amazon.customlisteners.CustomListeners"/>-->
+    <!--        <listener class-name="org.uncommons.reportng.HTMLReporter"/>-->
+    <!--        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>-->
+    <!--    </listeners>-->
+
+    <test name="Amazon Test">
+        <parameter name="name1" value="Laptop"></parameter>
+        <parameter name="productName1"
+                   value="Lenovo IdeaPad 3 15 Intel i3-10110U 8GB 256GB SSD 15.6-inch Touch Screen Laptop"></parameter>
+        <parameter name="qty1" value="3"></parameter>
+        <parameter name="expectedMessage1" value="Added to Cart"></parameter>
+        <parameter name="name2" value="Mobile Phone"></parameter>
+        <parameter name="productName2"
+                   value="Nokia XR20 5G | Android 11 | Unlocked Smartphone | Dual SIM | US Version | 6/128GB | 6.67-Inch Screen | 48MP Dual Camera | Polar Night"></parameter>
+        <parameter name="qty2" value="2"></parameter>
+        <parameter name="expectedMessage2" value="Added to Cart"></parameter>
+
+
+        <classes>
+
+
+            <class name="com.amazon.testsuite.MobilePhoneTest"></class>
+            <class name="com.amazon.testsuite.LaptopTest"></class>
+
+
+        </classes>
+    </test>
+</suite>

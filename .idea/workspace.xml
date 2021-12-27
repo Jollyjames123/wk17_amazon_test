@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="746d0728-d9b3-4624-bf77-1ff0bcca6a11" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21w30aWSErFJSI0GINkYgoJedKP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\patel\IdeaProjects\wk17_amazon_test\src\test\java\resources\runners" />
+      <recent name="C:\Users\patel\Homework\mavenProjectTemplate\src\test\java\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.amazon.pages" />
+      <recent name="com.amazon.testsuite" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/regression.xml (1)">
+    <configuration name="C:/Users/patel/Homework/group-hw/xyz-bank-page-factory-wk14-jp/src/test/java/resources/runners/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xyz-bank-page-factory-wk14-jp" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/patel/Homework/group-hw/xyz-bank-page-factory-wk14/src/test/java/resources/runners/sanity.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xyz-bank-page-factory-wk14" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/sanity.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/laptop.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wk17_amazon_test" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/laptop.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/regression.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wk17_amazon_test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/regression.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/patel/Homework/group-hw/xyz-bank-page-factory-wk14-jp/src/test/java/resources/runners/regression.xml" />
+      <item itemvalue="TestNG.C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/regression.xml" />
+      <item itemvalue="TestNG.C:/Users/patel/Homework/group-hw/xyz-bank-page-factory-wk14/src/test/java/resources/runners/sanity.xml" />
+      <item itemvalue="TestNG.C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/regression.xml (1)" />
+      <item itemvalue="TestNG.C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/laptop.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/regression.xml (1)" />
+        <item itemvalue="TestNG.C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/laptop.xml" />
+        <item itemvalue="TestNG.C:/Users/patel/IdeaProjects/wk17_amazon_test/src/test/java/resources/runners/regression.xml" />
+        <item itemvalue="TestNG.C:/Users/patel/Homework/group-hw/xyz-bank-page-factory-wk14/src/test/java/resources/runners/sanity.xml" />
+        <item itemvalue="TestNG.C:/Users/patel/Homework/group-hw/xyz-bank-page-factory-wk14-jp/src/test/java/resources/runners/regression.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="746d0728-d9b3-4624-bf77-1ff0bcca6a11" name="Changes" comment="" />
+      <created>1638838099878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638838099878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

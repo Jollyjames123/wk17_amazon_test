@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xyz-bank-page-factory-jp" />
+        <module name="xyz-bank-page-factory-wk14" />
+        <module name="xyz-bank-page-factory-wk14-jp" />
+        <module name="mavenProjectTemplate" />
+        <module name="wk17_amazon_test" />
+        <module name="xyz-bank-jp" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
